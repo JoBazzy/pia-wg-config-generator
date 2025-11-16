@@ -16,6 +16,12 @@ A web-based tool for generating WireGuard configuration files for Private Intern
 
 ## Quick Start
 
+### Unraid Users
+
+Search for **PIA WireGuard Config Generator** in Community Applications and install from there.
+
+### Docker CLI
+
 ```bash
 docker pull spaceinvaderone/pia-wg-config-generator:latest
 
