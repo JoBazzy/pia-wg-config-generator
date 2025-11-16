@@ -167,8 +167,8 @@ cython_debug/
 
 
 ## Custom ignores
-# PIA
-PIA-*
+# PIA generated config files
+PIA-*.conf
 *.conf
 
 # macOS
