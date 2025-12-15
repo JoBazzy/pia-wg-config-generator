@@ -23,10 +23,10 @@ Search for **PIA WireGuard Config Generator** in Community Applications and inst
 ### Docker CLI
 
 ```bash
-docker pull jobazzy/pia-config-gen-ghcr:latest
+docker pull ghcr.io/jobazzy/pia-config-gen-ghcr:latest
 
 docker run -d -p 8292:80 --name pia-wg-config-generator \
-  jobazzy/pia-config-gen-ghcr:latest
+  ghcr.io/jobazzy/pia-config-gen-ghcr:latest
 ```
 
 Access the web interface at `http://your-server-ip:8292`
